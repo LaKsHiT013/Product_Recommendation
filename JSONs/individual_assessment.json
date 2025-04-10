@@ -1,0 +1,2264 @@
+[
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude, Assessment Exercise, Biodata & Situational Judgment, Competences, Development & 360, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Assessment Exercise"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Assessment Exercise"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communications/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment, Personality & Behaviour, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-ten-key-split-screen/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/data-science-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/dermatology-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report-manager/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/docker-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/dojo-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/economics-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/electrical-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour, Competences"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour, Competences"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude, Assessment Exercise, Biodata & Situational Judgment, Competences, Development & 360, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/git-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/jquery-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/essential-focus-8-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-focus-8-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/vigilance-focus-8-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/maven-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mechatronics-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Development & 360"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Development & 360"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Development & 360"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Development & 360"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microservices-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations, Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mobility-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-profile/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-access-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-powerpoint-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/mulesoft-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/multitasking-ability/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude, Knowledge & Skills, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-and-implementation-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/node-js-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/nursing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/operations-management-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-plus-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-emotional-intelligence-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-maximising-your-learning-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-mq-sales-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-profile-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-group-development-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-selection-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-and-managers-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-advanced-level-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-entry-level-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-plsql-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-weblogic-server-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/organic-chemistry-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/paint-technology-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pediatrics-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pega-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/perl-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/petrochemical-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/petroleum-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-analysis-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Ability & Aptitude, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude, Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/prism-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Ability & Aptitude, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude, Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/prism-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-participant-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/restful-web-services-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/retail-sales-and-service-simulation/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment, Knowledge & Skills, Stimulations, Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/reviewing-forms-us-r1/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations, Biodata & Situational Judgment"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment, Personality & Behaviour, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-interview-guide/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-profiler-cards/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-sales-manager/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/salesforce-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-abap-advanced-level-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-abap-intermediate-level-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-basis-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-business-objects-webi-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-bw-business-warehouse-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-hybris-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-materials-management-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shell-scripting-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-g/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/siebel-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live-coding/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shell-scripting-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-g/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/siebel-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live-coding/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/struts-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-aus/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-u-k/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-us-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-canadian-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-european-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/swing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/telecommunications-engineering-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/training-development/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/typing-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Competences, Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/unix-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-general-ability-screen/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-technical-checking-next-generation/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-working-with-information/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-ability-test-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-candidate-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-ability-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-candidate-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-process-monitoring/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Ability & Aptitude"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Personality & Behaviour"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-basic-for-applications-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-uk/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-us/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/what-is-the-value-us/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-administration-skills-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-health-and-safety-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-managerial-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Biodata & Situational Judgment, Stimulations"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/written-spanish/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Knowledge & Skills"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Development & 360"
+    },
+    {
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "test_type": "Development & 360, Personality & Behaviour"
+    }
+]
