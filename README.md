@@ -74,24 +74,24 @@ Data was collected by splitting the web scraping process into several steps:
 - **Response Example:**
   ```json
      {
-     "recommended_assessments": [
-       {
-         "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
-         "adaptive_support": "No",
-         "description": "Multi-choice test that measures the conceptual knowledge on ...",
-         "duration": 45,
-         "remote_support": "Yes",
-         "test_type": ["Stimulations"]
-       },
-       {
-         "url": "https://www.shl.com/solutions/products/product-catalog/view/another-assessment/",
-         "adaptive_support": "Yes",
-         "description": "Another description here ...",
-         "duration": 60,
-         "remote_support": "No",
-         "test_type": ["Knowledge & Skills"]
-       }
-     ]
+        "recommended_assessments": [
+          {
+            "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+            "adaptive_support": "No",
+            "description": "Multi-choice test that measures the conceptual knowledge on ...",
+            "duration": 45,
+            "remote_support": "Yes",
+            "test_type": ["Stimulations"]
+          },
+          {
+            "url": "https://www.shl.com/solutions/products/product-catalog/view/another-assessment/",
+            "adaptive_support": "Yes",
+            "description": "Another description here ...",
+            "duration": 60,
+            "remote_support": "No",
+            "test_type": ["Knowledge & Skills"]
+          }
+        ]
     }
   ```
 ---
