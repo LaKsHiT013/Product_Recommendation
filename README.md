@@ -10,10 +10,7 @@ The SHL Assessment Assistant is a retrieval-augmented system designed to provide
 - [Data Collection & Processing](#data-collection--processing)
 - [API Endpoints](#api-endpoints)
 - [Dynamic Threshold Adjustment](#dynamic-threshold-adjustment)
-- [Deployment](#deployment)
 - [Usage](#usage)
-- [Requirements](#requirements)
-- [License](#license)
 
 ---
 
